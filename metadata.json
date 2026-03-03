@@ -1,0 +1,5 @@
+{
+  "name": "elearn",
+  "description": "A full-stack e-learning platform MVP with course management, lessons, quizzes, and progress tracking.",
+  "requestFramePermissions": []
+}
